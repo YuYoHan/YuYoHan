@@ -1,6 +1,12 @@
 <div align="center">
   
 ### 어서오세요~ John's Github입니다~👋
+  
+  저의 Github에 와주셔서 감사합니다!!
+  지속적인 공부를 통해서 발전해 가는 
+  개발자가 되기 위해서 열심히 하겠습니다~
+  
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Study%20Web&fontSize=90)
 
 
