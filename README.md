@@ -1,3 +1,4 @@
+<div align="center">
 ### 어서오세요~ John's Github입니다~👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Study%20Web&fontSize=90)
 
@@ -20,3 +21,4 @@
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuYoHan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2335DFF1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</
