@@ -16,7 +16,7 @@
 [![Java](https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=black)](https://github.com/YuYoHan/Java_Study)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/YuYoHan/Javascript)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/YuYoHan/JS)
 [![JSP](https://img.shields.io/badge/JSP-blue?style=flat-square&logo=JSPt&logoColor=black)](https://github.com/YuYoHan/JSP)
 
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](https://github.com/YuYoHan/Spring)
