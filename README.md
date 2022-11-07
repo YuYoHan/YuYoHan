@@ -29,7 +29,7 @@
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@dbekdms17)
 <h2>
-  메일 : zxzz8014@naver.com
+  zxzz8014@naver.com
   </h2> 
   
 <hr/>
