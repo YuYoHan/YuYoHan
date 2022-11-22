@@ -27,7 +27,7 @@
 <hr/>
 <h2 style=text-align="center">me</h2>
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@dbekdms17)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/series)
 <h2>
   zxzz8014@naver.com
   </h2> 
