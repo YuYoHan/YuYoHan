@@ -1,21 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Study%20Web&fontSize=90) 
 
-<div align=center><h2>어서오세요~ John's Github입니다~👋~</h2></div>
+<div align=center><h2>어서오세요~ John's Github입니다~👋~</h2>
  저의 Github에 와주셔서 감사합니다!!<br/>
 저는 계속 발전하기 위한 개발자가 되기 위하여<br />
 지속적으로 공부하고 생각하고 기록하고 있습니다!
+ </div>
 <br />
  <br />
-<div align=center><h2> 목표 : </h2></div>
+<div align=center><h2> 목표 : </h2>
 Spring Boot와 React로 투자 A급 받은 회사를 가는 것이 목표입니다.
+</div>
 
-
-<div align=center><h2> 공부한 것 : </h2></div>
-백엔드 - Java, JSP, Node, Spring, Spring Boot
+<div align=center><h2> 공부한 것 : </h2>
+백엔드 - Java, JSP, Node, Spring, Spring Boot <br />
 프론트 - HTML, CSS, JavaScript, React
-
-<div align=center><h2> 기타적인 것 : </h2></div>
+</div>
+<div align=center><h2> 기타적인 것 : </h2>
 Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스트
+</div>
 
 <div align=center><h2> 읽은 책 :</h2> </div> 
 자바의 정석, 모던 자바스크립트, 코드로 배우는 스프링 웹 프로젝트 개정판,
