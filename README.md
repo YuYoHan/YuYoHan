@@ -96,7 +96,7 @@ Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스�
 <hr/>
 <h2 style="text-align :center">me</h2>
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/series)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/about)
 <h2 style="text-align:center">
   zxzz8014@naver.com
   </h2> 
