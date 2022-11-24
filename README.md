@@ -1,5 +1,5 @@
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Study%20Web&fontSize=90)
+<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Study%20Web&fontSize=90) </div>
 
 <div align=center># 어서오세요~ John's Github입니다~👋~</div>
  저의 Github에 와주셔서 감사합니다!!<br/>
