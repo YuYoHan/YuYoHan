@@ -2,27 +2,27 @@
 
 <div align=center><h2>어서오세요~ John's Github입니다~👋~</h2></div>
  저의 Github에 와주셔서 감사합니다!!<br/>
-저는 계속 발전하기 위한 개발자가 되기 위하여
+저는 계속 발전하기 위한 개발자가 되기 위하여<br />
 지속적으로 공부하고 생각하고 기록하고 있습니다!
-
- 
-<div align=center>## 목표 :</div>
+<br />
+ <br />
+<div align=center><h2> 목표 : </h2></div>
 Spring Boot와 React로 투자 A급 받은 회사를 가는 것이 목표입니다.
 
 
-<div align=center>## 공부한 것 : </div>
+<div align=center><h2> 공부한 것 : </h2></div>
 백엔드 - Java, JSP, Node, Spring, Spring Boot
 프론트 - HTML, CSS, JavaScript, React
 
-<div align=center>## 기타적인 것 : </div>
+<div align=center><h2> 기타적인 것 : </h2></div>
 Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스트
 
-<div align=center>## 읽은 책 : </div> 
+<div align=center><h2> 읽은 책 :</h2> </div> 
 자바의 정석, 모던 자바스크립트, 코드로 배우는 스프링 웹 프로젝트 개정판,
 스프링 부트 퀵 스타트, (React, 스프링 부트, AWS) 웹 개발 101,
 스프링 부트 쇼핑몰 프로젝트 with JPA, 스프링 부트와 AWS로 혼자 구현하는 웹 서비스, React와 Spring Boot 웹애플리케이션을 연동하는 방법, 스프링 부트 핵심 가이드
 
-<div align=center>## 공부 방법 : </div>
+<div align=center><h2> 공부 방법 : </h2></div>
 학원 강의를 들으면서 부족하다고 느끼는 부분은 구글 검색과 유튜브, 책을 구매해서 보고 인프런 사이트에서 무료 강의와 유료 강의를 구매해서 봤습니다. 처음에는 학원에서도 개발 공부를 할 때 어떻게 해야하는지 알려주지 않아서 비전공생이라 어떻게 해야하는지 몰라서 여러 방법을 시도 했습니다. 강의나 책을 보고 따라 치고 난 다음 왜 이런 결과가 나오는지 생각을 해보고 이해가 안간다면 다시 돌려서 보고 구글에서 검색해보면서 다른 방법으로도 되는지 직접 해봤습니다. 그리고 하나의 언어를 배울 때 하나의 강의만을 보고 끝난것이 아니라 여러개를 보고 무슨차이점이 있는지 체크했습니다. 다만 아쉬웠던점은 직접 만들어보고 해야 했던 것을 늦게 깨달았던 점입니다. 
 
 각각 메인으로 공부했던 방법과 순서(구글 검색은 당연한거니 빼겠습니다~)
