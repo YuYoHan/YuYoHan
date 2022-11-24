@@ -75,7 +75,7 @@ Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스�
 → 공부이유는 호기심이 생겨서 책으로 흐름을 파악했습니다.
 
 ---
-
+<div align=center>
 <h2 style="text-align :center">study</h2>
 
 [![Java](https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=black)](https://github.com/YuYoHan/Java_Study)
@@ -100,5 +100,5 @@ Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스�
 <hr/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuYoHan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2335DFF1&title=hits&edge_flat=false)]()
-
+</div>
   
