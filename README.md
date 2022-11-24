@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Study%20Web&fontSize=90) 
 
-<div align=center>
- # 어서오세요~ John's Github입니다~👋~
+<h2 style="text-align :center">
+ 어서오세요~ John's Github입니다~👋~
  저의 Github에 와주셔서 감사합니다!!<br/>
 저는 계속 발전하기 위한 개발자가 되기 위하여
 지속적으로 공부하고 생각하고 기록하고 있습니다!
-</div>
+</h2>
  
 <div align=center>## 목표 :</div>
 Spring Boot와 React로 투자 A급 받은 회사를 가는 것이 목표입니다.
