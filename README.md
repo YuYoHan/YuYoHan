@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&weight=500&section=header&text=Study%20Web&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&weight=1000&section=header&text=Study%20Web&fontSize=90) 
 
 <div align=center><h2>어서오세요~ John's Github입니다~👋~</h2>
  저의 Github에 와주셔서 감사합니다!!<br/>
