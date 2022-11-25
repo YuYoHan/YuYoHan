@@ -8,7 +8,7 @@
 <br />
  <br />
 <div align=center><h2> 목표 : </h2>
- <span style="color: green">Spring Boot</span>와 <span style="color: aqua">React</span>로 투자 A급 받은 회사를 가는 것이 목표입니다.
+ <span style=color: green>Spring Boot</span>와 <span style="color: aqua">React</span>로 투자 A급 받은 회사를 가는 것이 목표입니다.
 </div>
 
 <div align=center><h2> 공부한 것 : </h2>
