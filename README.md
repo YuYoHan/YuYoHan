@@ -102,7 +102,7 @@ Do it! 알고리즘 코딩 테스트 <br />
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/YuYoHan/React)
 
 <hr/>
-<h2 style="text-align :center">me</h2>
+<h2 style="text-align :center">Velog</h2>
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/about)
 <h2 style="text-align:center">
