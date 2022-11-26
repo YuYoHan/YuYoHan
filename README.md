@@ -144,12 +144,14 @@ vscode<br />
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/about)
 <h2 style="text-align:center">
-  zxzz8014@naver.com
+ [![Naver Badge](https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zxzz8014@naver.com)](zxzz8014@naver.com)
   </h2> 
   
 <hr/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuYoHan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2335DFF1&title=hits&edge_flat=false)]()
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuYoHan&show_icons=true&theme=radical)
+ <br />
+ <br />
+ ![YuYoHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuYoHan&show_icons=true&theme=radical)
 </div>
   
