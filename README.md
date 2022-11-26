@@ -142,12 +142,14 @@ vscode<br />
 <hr/>
 <h2 style="text-align :center">Velog</h2>
 
+ 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/about)
-<h2 style="text-align:center">
+ <h2 style="text-align:center">mail</h2>
  [![Naver Bage](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zxzz8014@naver.com)](zxzz8014@naver.com)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbekdms14744@gmail.com)](dbekdms14744@gmail.com)
-  </h2> 
-  
+   
+<br />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={YuYoHann(string)})](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuYoHan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2335DFF1&title=hits&edge_flat=false)]()
