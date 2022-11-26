@@ -144,7 +144,7 @@ vscode<br />
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/about)
 <h2 style="text-align:center">
- [![Naver Badge](https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zxzz8014@naver.com)](zxzz8014@naver.com)
+ [![Naver](https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zxzz8014@naver.com)](zxzz8014@naver.com)
   </h2> 
   
 <hr/>
