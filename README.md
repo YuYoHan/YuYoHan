@@ -39,93 +39,80 @@ Do it! 알고리즘 코딩 테스트 <br />
 <br />
 공부했던 것들 (구글 검색은 당연한거니 빼겠습니다~)<br />
 <br />
-1. Java 
-→ 학원 강의, 책
-[<img src="https://img.shields.io/badge/JAVA-007396?style=for-thebadge&logo=java&logoColor=white">](https://github.com/YuYoHan/Java_Study)
-2. HTML 
-→ 학원 강의, 인프런 강의
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
-3. CSS 
-→ 학원 강의, 인프런 강의, 유튜브
-→ 여러개의 사이트를 계속 보면서 만들어보면서 감을 잡았습니다.
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
-​
-4. JavaScript
-→ 학원 강의, 책, 유튜브, 인프런 강의
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/YuYoHan/JS)
-5. JSP 
-→ 학원 강의
-→ JSP는 마스터한다기 보다는 Spring을 위하여 감을 잡기 위한 방식으로 공부했습니다.
-[![JSP](https://img.shields.io/badge/JSP-blue?style=flat-square&logo=JSPt&logoColor=black)](https://github.com/YuYoHan/JSP)
-6. React
-→ 학원 강의, 유튜브
-→ React를 공부할 때는 학원 강의에 더 집중을 했고 강의 바탕으로 계속 만들어보면서 감을 잡았습니다. 그렇게 한 이유는 학원 강의 자료가 더 최신화가 되어있었고 실무에 가깝게 가르켜 주셨기 때문에 인프런 강의, 유튜브 강의는 너무 구버전이였고 폴더로 관리하지 않았고 `css-in-js`로 하지 않았기 때문에 학원 강의에 집중했습니다.
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/YuYoHan/React)
-7. Spring 
-→ 학원 강의, 코드로 배우는 스프링 웹 프로젝트(개정판), 인프런 강의
-→ Spring을 배운 이유는 Spring boot가 새로운 언어가 아닌 Spring에서 버전업한
-것이기 때문에 Spring을 먼저 배웠습니다.
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](https://github.com/YuYoHan/Spring)
-8. Node 
-→ 학원 강의
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/YuYoHan/Node.js)
-9. AWS
-→ 유튜브, 인프런 강의
-→ AWS 공부 이유는 백엔드를 목표로 하는데 배포는 알아야 한다고 생각하기 때문에 AWS를 공부했습니다.
-​
-10. Spring Boot 
-→ 따즈아 강의, 인프런 강의, 책, 유튜브
-→ 학원에서는 Spring Boot를 가르켜 주지 않았지만 전자정부 표준프레임워크에서 Spring의 비중이 내려갔고 React와 Spring Boot가 올라왔다고 들었기 때문에 독자적으로 공부했습니다.
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](https://github.com/YuYoHan/SpringBoot)
-​
-11. DevOps
-→ 책
-→ 공부이유는 호기심이 생겨서 책으로 흐름을 파악했습니다.
-​
-12. MyBatis
-→ 학원 강의
-​
-13. JPA
-→ 인프런 강의
-​
-14. MySQL
-→ 학원 강의
-[<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">](https://github.com/YuYoHan/DBMS-mysql-)
-​
-15. JQuery
-→ 학원 강의
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-​
-## 그 외 사용한 것
-Git
-→ 계속 명령어를 검색해보고 직접 해보면서 익혔습니다.
-→ Git 공부 같은 경우는 github desktop으로 올린 것이 아니라 vscode나 intellij를 사용할 때는 자체 기능인 터미널을 사용하였고 이클립스를 사용 할 때는 git bash로 사용했습니다. 다만 vscode나 intellij에서 제공하는 git에 바로 올려주는 기능을 사용하지 않았고 명령어가 익숙해질 수 있도록 직접 터미널에서 명령어를 쳤습니다.
-→ 매일 코드 작성한 것을 git에 올려서 잔디 관리를 해줬고 프로젝트는 협업방식으로 진행해서 공부했습니다.
-​
- [<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/YuYoHan)
-​
-부트스트랩
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-​
-AWS
-→ 유튜브, 인프런 강의
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-​
-아파치 톰캣
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-​
-인텔리제이
-<img src="https://img.shields.io/badge/IntelliJ IDEA
--000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
-​
-vscode
-<img src="https://img.shields.io/badge/Visual Studio Code
--007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-​
-이클립스
-<img src="https://img.shields.io/badge/Eclipse IDE
--2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
+1. Java <br />
+→ 학원 강의, 책<br />
+<br />
+2. HTML<br /> 
+→ 학원 강의, 인프런 강의<br />
+<br />
+3. CSS<br /> 
+→ 학원 강의, 인프런 강의, 유튜브<br />
+→ 여러개의 사이트를 계속 보면서 만들어보면서 감을 잡았습니다.<br />
+<br />
 
+4. JavaScript<br />
+→ 학원 강의, 책, 유튜브, 인프런 강의<br />
+<br />
+5. JSP<br /> 
+→ 학원 강의<br />
+→ JSP는 마스터한다기 보다는 Spring을 위하여 감을 잡기 위한 방식으로 공부했습니다.<br />
+<br />
+6. React<br />
+→ 학원 강의, 유튜브<br />
+→ React를 공부할 때는 학원 강의에 더 집중을 했고 강의 바탕으로 계속 만들어보면서 감을 잡았습니다. 그렇게 한 이유는 학원 강의 자료가 더 최신화가 되어있었고 실무에 가깝게 가르켜 주셨기 때문에 인프런 강의, 유튜브 강의는 너무 구버전이였고 폴더로 관리하지 않았고 `css-in-js`로 하지 않았기 때문에 학원 강의에 집중했습니다.<br />
+<br />
+7. Spring<br /> 
+→ 학원 강의, 코드로 배우는 스프링 웹 프로젝트(개정판), 인프런 강의<br />
+→ Spring을 배운 이유는 Spring boot가 새로운 언어가 아닌 Spring에서 버전업한
+것이기 때문에 Spring을 먼저 배웠습니다.<br />
+<br />
+8. Node <br />
+→ 학원 강의<br />
+<br />
+9. AWS<br />
+→ 유튜브, 인프런 강의<br />
+→ AWS 공부 이유는 백엔드를 목표로 하는데 배포는 알아야 한다고 생각하기 때문에 AWS를 공부했습니다.<br />
+​<br />
+10. Spring Boot <br />
+→ 따즈아 강의, 인프런 강의, 책, 유튜브<br />
+→ 학원에서는 Spring Boot를 가르켜 주지 않았지만 전자정부 표준프레임워크에서 Spring의 비중이 내려갔고 React와 Spring Boot가 올라왔다고 들었기 때문에 독자적으로 공부했습니다.<br />
+​<br />
+11. DevOps<br />
+→ 책<br />
+→ 공부이유는 호기심이 생겨서 책으로 흐름을 파악했습니다.<br />
+​<br />
+12. MyBatis<br />
+→ 학원 강의<br />
+​<br />
+13. JPA<br />
+→ 인프런 강의<br />
+​<br />
+14. MySQL<br />
+→ 학원 강의<br />
+​<br />
+15. JQuery<br />
+→ 학원 강의<br />
+<br />
+<br />​
+## 그 외 사용한 것
+Git<br />
+→ 계속 명령어를 검색해보고 직접 해보면서 익혔습니다.<br />
+→ Git 공부 같은 경우는 github desktop으로 올린 것이 아니라 vscode나 intellij를 사용할 때는 자체 기능인 터미널을 사용하였고 이클립스를 사용 할 때는 git bash로 사용했습니다. 다만 vscode나 intellij에서 제공하는 git에 바로 올려주는 기능을 사용하지 않았고 명령어가 익숙해질 수 있도록 직접 터미널에서 명령어를 쳤습니다.<br />
+→ 매일 코드 작성한 것을 git에 올려서 잔디 관리를 해줬고 프로젝트는 협업방식으로 진행해서 공부했습니다.<br />
+<br />​
+부트스트랩<br />
+​<br />
+AWS<br />
+→ 유튜브, 인프런 강의<br />
+<br />​
+아파치 톰캣<br />
+<br />​
+인텔리제이<br />
+<br />​
+vscode<br />
+<br />​
+이클립스<br />
+<br />
 ---
 <div align=center>
 <h2 style="text-align :center">공부한 것 요약</h2>
