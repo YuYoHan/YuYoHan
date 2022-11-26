@@ -15,6 +15,9 @@
 백엔드 - Java, JSP, Node, Spring, Spring Boot <br />
 프론트 - HTML, CSS, JavaScript, React
 </div>
+<div align=center><h2> Tools </h2>
+ [![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-#007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)]
+
 <div align=center><h2> 기타적인 것 </h2>
 Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스트
 </div>
