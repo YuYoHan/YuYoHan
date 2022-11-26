@@ -15,9 +15,6 @@
 백엔드 - Java, JSP, Node, Spring, Spring Boot <br />
 프론트 - HTML, CSS, JavaScript, React
 </div>
-<div align=center><h2> Tools </h2>
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
-</div>
 <div align=center><h2> 기타적인 것 </h2>
 Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스트
 </div>
@@ -103,7 +100,7 @@ Do it! 알고리즘 코딩 테스트 <br />
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](https://github.com/YuYoHan/SpringBoot)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/YuYoHan/Node.js)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/YuYoHan/React)
-
+[![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
 <hr/>
 <h2 style="text-align :center">Velog</h2>
 
