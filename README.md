@@ -11,7 +11,7 @@
  <span color= green>Spring Boot</span>와 <span style="color: aqua">React</span>로 투자 A급 받은 회사를 가는 것이 목표입니다.
 </div>
 
-<div align=center><h2> 공부한 것 </h2>
+<div align=center><h2> main </h2>
 백엔드 - Java, JSP, Node, Spring, Spring Boot <br />
 프론트 - HTML, CSS, JavaScript, React
 </div>
@@ -37,8 +37,7 @@ Do it! 알고리즘 코딩 테스트 <br />
 <br />
 <br />
 <br />
-각각 메인으로 공부했던 방법과 순서(구글 검색은 당연한거니 빼겠습니다~)<br />
-이거는 정확히 배운 순서라기 보다는 복습까지 쳤을 때 순서입니다.<br />
+공부했던 것들 (구글 검색은 당연한거니 빼겠습니다~)<br />
 <br />
 1. Java <br />
 → 학원 강의, 책
