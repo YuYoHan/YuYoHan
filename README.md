@@ -16,7 +16,7 @@
 프론트 - HTML, CSS, JavaScript, React
 </div>
 <div align=center><h2> Tools </h2>
-[![Java](https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=black)]
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
 </div>
 <div align=center><h2> 기타적인 것 </h2>
 Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스트
