@@ -87,7 +87,7 @@ Do it! 알고리즘 코딩 테스트 <br />
 
 ---
 <div align=center>
-<h2 style="text-align :center">study</h2>
+<h2 style="text-align :center">공부한 것 요약</h2>
 
 [![Java](https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=black)](https://github.com/YuYoHan/Java_Study)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
@@ -106,7 +106,9 @@ Do it! 알고리즘 코딩 테스트 <br />
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
 <hr/>
 <h2 style="text-align :center">Velog</h2>
 
