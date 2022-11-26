@@ -100,7 +100,7 @@ Do it! 알고리즘 코딩 테스트 <br />
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](https://github.com/YuYoHan/SpringBoot)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/YuYoHan/Node.js)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/YuYoHan/React)
-[![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-#007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <hr/>
 <h2 style="text-align :center">Velog</h2>
 
