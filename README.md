@@ -30,9 +30,9 @@ React와 Spring Boot 웹애플리케이션을 연동하는 방법<br />
 Do it! 알고리즘 코딩 테스트 <br />
 데브옵스  
 </div> 
-<div align=center><h2> ☾⋆⁺₊⋆how to study⋆｡ﾟ✶° </h2>
+<div align=center><h2> ☾⋆⁺₊⋆me⋆｡ﾟ✶° </h2>
 
-[공부했던 방법 & 공부했던 것들 정리](https://velog.io/@zxzz45/about)
+[공부했던 방법 & 자기소개](https://velog.io/@zxzz45/about)
 </div>
 
 <div align=center>
