@@ -35,8 +35,6 @@ Do it! 알고리즘 코딩 테스트 <br />
 [공부했던 방법 & 공부했던 것들 정리](https://velog.io/@zxzz45/about)
 </div>
 
-
----
 <div align=center>
 <h2 style="text-align :center">☾⋆⁺₊⋆공부한 것 요약⋆｡ﾟ✶°</h2>
 
