@@ -12,7 +12,8 @@
 </div>
 
 <div align=center><h2> ☾⋆⁺₊⋆main⋆｡ﾟ✶° </h2>
-백엔드 - Java, JSP, Node, Spring, Spring Boot <br />
+백엔드 <br /> 
+ Java, JSP, Node, Spring, Spring Boot <br />
 프론트 - HTML, CSS, JavaScript, React
 기타 - Devops, Git, AWS 배포, 닷홈 배포, Git 배포, 알고리즘, 코딩 테스트
 </div>
