@@ -31,7 +31,8 @@ Do it! 알고리즘 코딩 테스트 <br />
 </div> 
 <div align=center><h2> ☾⋆⁺₊⋆me⋆｡ﾟ✶° </h2>
 
-[공부했던 방법 & 자기소개](https://velog.io/@zxzz45/about)
+계속 발전하고 성장하는 개발자가 되기 위해서 <br />
+ 공부와 생각을 멈추지 않겠습니다!
 </div>
 
 <div align=center>
