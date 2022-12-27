@@ -9,7 +9,8 @@
 <br />
  <br />
 <div align=center><h2> ☾⋆⁺₊⋆목표⋆｡ﾟ✶° </h2>
- <span color= green>Spring Boot</span>와 <span style="color: aqua">React</span>로 투자 A급 받은 회사를 가는 것이 목표입니다.
+ <span color= green>Spring Boot</span>와 <span style="color: aqua">React</span>로 투자 A급 이상을 받은 회사를 가는 것이 목표입니다. <br/>
+ 그러기 위해서 최선을 다하겠습니다!
 </div>
 
 <div align=center><h2> ☾⋆⁺₊⋆main⋆｡ﾟ✶° </h2>
