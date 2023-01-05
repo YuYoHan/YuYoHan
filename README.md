@@ -59,7 +59,7 @@ Do it! 알고리즘 코딩 테스트 <br />
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
- <img src="https://img.shields.io/badge/H2-F80000?style=flat-square&logo=H2&logoColor=white">
+ <img src="https://img.shields.io/badge/H2-blue?style=flat-square&logo=H2&logoColor=white">
  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white">
  <br />
  <br />
