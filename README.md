@@ -9,7 +9,7 @@
 <br />
  <br />
 <div align=center><h2> ☾⋆⁺₊⋆목표⋆｡ﾟ✶° </h2>
- <span color= green>Spring Boot</span>로 저를  회사를 가는 것이 목표입니다. <br/>
+ <span color= green>Spring Boot</span>로 저를 성장시켜줄 회사를 가는 것이 목표입니다. <br/>
  그러기 위해서 최선을 다하겠습니다!
 </div>
 
