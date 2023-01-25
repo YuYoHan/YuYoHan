@@ -49,7 +49,7 @@ Do it! 알고리즘 코딩 테스트 <br />
  [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](https://github.com/YuYoHan/Spring)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](https://github.com/YuYoHan/SpringBoot)
  [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=black)](https://github.com/YuYoHan/SpringSecurity)
-   <img src="https://img.shields.io/badge/springBatch-6DB33F?style=flat-square&logo=springBatch&logoColor=white">(https://github.com/YuYoHan/SpringBatch)
+  [![SpringBatch](https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=SpringBatch&logoColor=black)] (https://github.com/YuYoHan/SpringBatch)
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
  
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
