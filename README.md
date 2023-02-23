@@ -22,20 +22,17 @@ Spring Boot
 모던 자바스크립트<br />
 코드로 배우는 스프링 웹 프로젝트 개정판<br />
 스프링 부트 퀵 스타트<br />
+ React와 Spring Boot 웹애플리케이션을 연동하는 방법<br />
+ 스프링 부트 핵심 가이드<br />
+ 스프링 부트 쇼핑몰 프로젝트 with JPA<br />
+ 스프링 부트와 AWS로 혼자 구현하는 웹 서비스<br />
 (React, 스프링 부트, AWS) 웹 개발 101<br />
-스프링 부트 쇼핑몰 프로젝트 with JPA<br />
-스프링 부트와 AWS로 혼자 구현하는 웹 서비스<br />
-React와 Spring Boot 웹애플리케이션을 연동하는 방법<br />
-스프링 부트 핵심 가이드<br />
+면접을 위한 CS 전공지식 노트 <br />
+Do it! 자료구조와 알고리즘 <br/>
 Do it! 알고리즘 코딩 테스트 <br />
  JAVA 언어로 배우는 디자인 패턴 입문 <br/>
- Do it! 자료구조와 알고리즘 <br/>
- 면접을 위한 CS 전공지식 노트 <br />
  대규모 서비스를 지탱하는 기술 <br />
-데브옵스  <br />
- 완벽한 IT 인프라를 위한 Docker <br />
- 15단계로 배우는 도커와 쿠버네티스 <br />
- MongoDB <br/>
+
 </div> 
 <div align=center><h2> ☾⋆⁺₊⋆me⋆｡ﾟ✶° </h2>
 
