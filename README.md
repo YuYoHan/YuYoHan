@@ -14,7 +14,10 @@
 </div>
 
 <div align=center><h2> ☾⋆⁺₊⋆main⋆｡ﾟ✶° </h2>
-Spring Boot
+Spring Boot <br/>
+ JPA <br/>
+ Spring Security <br/>
+ Spring Batch <br/>
 </div>
 
 <div align=center><h2> ☾⋆⁺₊⋆read books⋆｡ﾟ✶°</h2> 
