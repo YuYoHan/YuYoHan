@@ -29,7 +29,7 @@ Spring Boot <br/>
  스프링 부트 핵심 가이드<br />
  스프링 부트 쇼핑몰 프로젝트 with JPA<br />
  스프링 부트와 AWS로 혼자 구현하는 웹 서비스<br />
-(React, 스프링 부트, AWS) 웹 개발 101<br />
+(React, 스프링 부트, AWS) 웹 개발 101 2/e<br />
 면접을 위한 CS 전공지식 노트 <br />
 Do it! 자료구조와 알고리즘 <br/>
 Do it! 알고리즘 코딩 테스트 <br />
