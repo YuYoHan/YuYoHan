@@ -34,6 +34,7 @@ Spring Boot <br/>
 Do it! 알고리즘 코딩 테스트 <br />
  JAVA 언어로 배우는 디자인 패턴 입문 <br/>
  대규모 서비스를 지탱하는 기술 <br />
+ 그림으로 이해하는 AWS구조와 기술
 
 </div> 
 <div align=center><h2> ☾⋆⁺₊⋆me⋆｡ﾟ✶° </h2>
