@@ -17,6 +17,7 @@
 Spring Boot <br/>
  JPA <br/>
  Spring Security <br/>
+ Spring Security OAuth 2.0 <br />
  Spring Batch <br/>
 </div>
 
