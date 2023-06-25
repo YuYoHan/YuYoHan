@@ -19,6 +19,7 @@ Spring Boot <br/>
  Spring Security <br/>
  Spring Security OAuth 2.0 <br />
  Spring Batch <br/>
+ JWT
 </div>
 
 <div align=center><h2> ☾⋆⁺₊⋆read books⋆｡ﾟ✶°</h2> 
