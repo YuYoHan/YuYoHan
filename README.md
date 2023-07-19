@@ -65,7 +65,7 @@ Do it! 알고리즘 코딩 테스트 <br />
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/YuYoHan/JS)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/YuYoHan/React)
  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/YuYoHan/Node.js)
-  [![mongodb](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=black)](https://github.com/YuYoHan/Node.js)
+  [![mongodb](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=black)](https://github.com/YuYoHan/MongoDB)
 
  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
