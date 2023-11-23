@@ -27,18 +27,6 @@ git commit은 무작정 잔디를 채우는 것이 아니라 의미있는 잔디
 
 </div>
 
-<div align=center><h2> ☾⋆⁺₊⋆main⋆｡ﾟ✶° </h2>
-Spring Boot <br/>
- JPA <br/>
- Spring Security <br/>
- Spring Security OAuth 2.0 <br />
- Spring Batch <br/>
- JWT <br/>
- AWS <br/>
- Docekr <br/>
- kubernetes 
-</div>
-
 <div align=center><h2> ☾⋆⁺₊⋆read books⋆｡ﾟ✶°</h2> 
 자바의 정석<br /> 
 모던 자바스크립트<br />
