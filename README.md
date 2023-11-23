@@ -55,11 +55,10 @@ Do it! 알고리즘 코딩 테스트 <br />
  대규모 서비스를 지탱하는 기술 <br />
  따라하며 배우는 AWS 네트워크 입문 <br/>
  스프링 부트3 백엔드 개발자되기 <br />
- 초보를 위한 젠킨스2 활용 가이드 2/e <br />
- 쿠버네티스 입문 <br />
+ 아파치 카프카 애플리케이션 프로그래밍 <br />
+ ORM JPA <br />
  (스프링으로 시작하는) 리액티브 프로그래밍 : Spring WebFlux를 이용한 Non-Blocking <br/>
  스프링 부트로 개발하는 MSA 컴포넌트 = Spring booy for MSA <br/>
-(Do it!) 깡샘의 안드로이드 앱 프로그래밍 with 코틀린 : 친절한 문법 설명과 18개 실습으로 배우는 모바일 앱 개발 <br />
 (Do it!) 코틀린 프로그래밍 : 기초 문법부터 안드로이드 활용까지 <br/>
  카프카, 데이터 플랫폼의 최강자 : 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지 <br/>
  실전 카프카 개발부터 운영까지 : 데이터플랫폼의 중추 아파치 카프카의 내부동작과 개발,운영,보안의 모든것 <br />
@@ -103,16 +102,24 @@ Do it! 알고리즘 코딩 테스트 <br />
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/YuYoHan/JS)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/YuYoHan/React)
- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/YuYoHan/Node.js)
-  [![mongodb](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=black)](https://github.com/YuYoHan/MongoDB)
+
+ <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+ <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+ <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
+ <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
+   <br/>
 
  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
  <img src="https://img.shields.io/badge/H2-blue?style=flat-square&logo=H2&logoColor=white">
- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
+
  <br />
  <br />
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
