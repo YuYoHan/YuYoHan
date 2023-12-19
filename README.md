@@ -46,8 +46,6 @@ Do it! 알고리즘 코딩 테스트 <br />
  스프링 부트3 백엔드 개발자되기 <br />
  아파치 카프카 애플리케이션 프로그래밍 <br />
  ORM JPA <br />
- (스프링으로 시작하는) 리액티브 프로그래밍 : Spring WebFlux를 이용한 Non-Blocking <br/>
- 스프링 부트로 개발하는 MSA 컴포넌트 = Spring booy for MSA <br/>
 (Do it!) 코틀린 프로그래밍 : 기초 문법부터 안드로이드 활용까지 <br/>
 
 </div> 
