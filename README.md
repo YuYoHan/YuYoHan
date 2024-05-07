@@ -39,10 +39,10 @@
 
  [![Java](https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=black)](https://github.com/YuYoHan/Java_Study)
 [![JSP](https://img.shields.io/badge/JSP-blue?style=flat-square&logo=JSPt&logoColor=black)](https://github.com/YuYoHan/JSP)
- [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](https://github.com/YuYoHan/Spring)
+ [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](https://github.com/YuYoHan/spring_study)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](https://github.com/YuYoHan/SpringBoot)
  [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=black)](https://github.com/YuYoHan/SpringSecurity)
-  [![Spring OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=OAuth2&logoColor=black)](https://github.com/YuYoHan/scurity_JWT_OAuth2)
+  [![Spring OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=OAuth2&logoColor=black)](https://github.com/YuYoHan/SpringSecurity_OAuth2_jwt)
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
  
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
@@ -72,7 +72,8 @@
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
 
 <h2 style="text-align :center">☾⋆⁺₊⋆Velog⋆｡ﾟ✶°</h2>
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/about)
+
+[![Velog](https://img.shields.io/badge/Velog-61DAFB?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/series)
  
  <h2 style="text-align:center">☾⋆⁺₊⋆mail⋆｡ﾟ✶°</h2>
  <a href="mailto:zxzz8014@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zxzz8014@naver.com"/></a>
