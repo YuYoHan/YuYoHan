@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&weight=1000&section=header&text=Study%20Web&fontSize=90) 
 
-<div align=center><h2> ☾⋆⁺₊⋆개발자로서 추구하는 것⋆｡ﾟ✶° </h2></div>
+<div align=center><h2> ☾⋆⁺₊개발자로서 추구하는 것⋆｡ﾟ✶° </h2></div>
 
 - <sapn>$\bf{\large{\color{#DD6565}코드에 대한 애착이 없음}}$</span><br/>
 개발 공부를 하면서 느낀 점은 하나의 코드에 애착을 가질 필요가 없다는 점입니다. 그렇게 생각한 이유는 계속 리펙토링을 해주면서 가독성과 성능을 생각해야 하고 회사가 원하는 사업의 방향에 따라 바뀔 수 있는데 작성한 코드에 애착을 가지며 유지할 필요가 없기 때문입니다.
@@ -66,11 +66,11 @@
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
 
-<h2 style="text-align :center">☾⋆⁺₊⋆Velog⋆｡ﾟ✶°</h2>
+<h2 style="text-align :center">☾⋆⁺₊⋆Velo✶°</h2>
 
 [![Velog](https://img.shields.io/badge/Velog-61DAFB?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/series)
  
- <h2 style="text-align:center">☾⋆⁺₊⋆mail⋆｡ﾟ✶°</h2>
+ <h2 style="text-align:center">☾⋆⁺₊⋆mail✶°</h2>
  <a href="mailto:zxzz8014@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zxzz8014@naver.com"/></a>
 <a href="mailto:dbekdms14744@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbekdms14744@gmail.com"/></a>
    
