@@ -53,7 +53,8 @@
 <h2 style="text-align :center">☾⋆⁺₊⋆블로그✶°</h2>
 
 [![Velog](https://img.shields.io/badge/Velog-61DAFB?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/series)
-[![My Skills](https://skillicons.dev/icons?i=notion)]([https://skillicons.dev](https://plaid-argument-614.notion.site/John-s-Log-af15779a74c6431e81bd119f9adda522?pvs=4))
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://plaid-argument-614.notion.site/John-s-Log-af15779a74c6431e81bd119f9adda522?pvs=4)
+
  
  <h2 style="text-align:center">☾⋆⁺₊⋆mail✶°</h2>
  <a href="mailto:zxzz8014@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zxzz8014@naver.com"/></a>
