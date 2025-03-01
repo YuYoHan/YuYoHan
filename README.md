@@ -30,45 +30,30 @@
 
 <div align=center>
 <h2 style="text-align :center">☾⋆⁺₊⋆공부한 것 요약⋆｡ﾟ✶°</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,jenkins,githubactions" /> <br/>
+   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,elasticsearch,gradle,grafana" /> <br/>
+   <img src="https://skillicons.dev/icons?i=kafka,kubernetes,linux,mongodb,nginx,postman,prometheus" /> <br/>
+   <img src="https://skillicons.dev/icons?i=rabbitmq,redis,tailwind,ubuntu,visualstudio,vite" />
+  </a>
+</p>
 
 
- [![Java](https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=black)](https://github.com/YuYoHan/Java_Study)
-[![JSP](https://img.shields.io/badge/JSP-blue?style=flat-square&logo=JSPt&logoColor=black)](https://github.com/YuYoHan/JSP)
- [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](https://github.com/YuYoHan/spring_study)
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](https://github.com/YuYoHan/SpringBoot)
  [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=black)](https://github.com/YuYoHan/SpringSecurity)
   [![Spring OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=OAuth2&logoColor=black)](https://github.com/YuYoHan/SpringSecurity_OAuth2_jwt)
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
  
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=HTML&logoColor=black)](https://github.com/YuYoHan/HTML_CSS)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/YuYoHan/JS)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/YuYoHan/React)
 
-<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
- <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
-   <br/>
-
- <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
- <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
- <img src="https://img.shields.io/badge/H2-blue?style=flat-square&logo=H2&logoColor=white">
-
- <br />
- <br />
- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 <h2>IDE</h2>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
 
-<h2 style="text-align :center">☾⋆⁺₊⋆Velo✶°</h2>
+<h2 style="text-align :center">☾⋆⁺₊⋆블로그✶°</h2>
 
 [![Velog](https://img.shields.io/badge/Velog-61DAFB?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/series)
+[![My Skills](https://skillicons.dev/icons?i=notion)]([https://skillicons.dev](https://plaid-argument-614.notion.site/John-s-Log-af15779a74c6431e81bd119f9adda522?pvs=4))
  
  <h2 style="text-align:center">☾⋆⁺₊⋆mail✶°</h2>
  <a href="mailto:zxzz8014@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zxzz8014@naver.com"/></a>
