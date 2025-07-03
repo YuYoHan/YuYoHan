@@ -30,43 +30,89 @@
 
 <div align=center>
 <h2 style="text-align :center">☾⋆⁺₊⋆공부한 것 요약⋆｡ﾟ✶°</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,jenkins,githubactions" /> <br/>
-   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,elasticsearch,gradle,grafana" /> <br/>
-   <img src="https://skillicons.dev/icons?i=kafka,kubernetes,linux,mongodb,nginx,postman,prometheus" /> <br/>
-   <img src="https://skillicons.dev/icons?i=rabbitmq,redis,tailwind,ubuntu,visualstudio,vite" />
-  </a>
-</p>
+  <!-- skillicons -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <!-- 1줄 -->
+      <img src="https://skillicons.dev/icons?i=java" title="Java" />
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+      <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+      <br />
+      <!-- 2줄 -->
+      <img src="https://skillicons.dev/icons?i=git" title="Git" />
+      <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+      <img src="https://skillicons.dev/icons?i=react" title="React" />
+      <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
+      <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+      <br />
+      <!-- 3줄 -->
+      <img src="https://skillicons.dev/icons?i=spring" title="SpringBoot" />
+      <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" />
+      <img src="https://skillicons.dev/icons?i=maven" title="maven" />
+      <img src="https://skillicons.dev/icons?i=hibernate" title="hibernate" />
+      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+      <br />
+      <!-- 4줄 -->
+      <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" />
+      <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
+      <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
+      <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" />
+      <br />
+      <!-- 5줄 -->
+      <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+      <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" />
+      <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" />
+      <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
+      <br/>
+      <!-- 6줄 -->
+      <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" />
+      <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+      <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
+      <img src="https://skillicons.dev/icons?i=graphql" title="graphql" />  
+      <br />
+      <!-- 7줄 -->
+      <img src="https://skillicons.dev/icons?i=vscode" title="vscode" />
+      <img src="https://skillicons.dev/icons?i=eclipse" title="eclipse" />
+      <img src="https://skillicons.dev/icons?i=idea" title="idea" />
+      <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+      <img src="https://skillicons.dev/icons?i=discord" title="discord" />
+    </a>
+  </p>
 
+  <!-- 배지형 (skillicons에 없는 기술) -->
+  <p align="center">
+    <br />
+    <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Spring Cloud"/>
+    <img src="https://img.shields.io/badge/MSA-007ACC?style=flat-square&logo=microgen&logoColor=white" title="Microservice Architecture"/>
+    <img src="https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white" title="K6 Load Testing"/>
+    <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazonaws&logoColor=white" title="AWS S3"/>
+    <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" title="AWS RDS"/>
+    <br />
+    <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=elastic&logoColor=white" title="Logstash"/>
+    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=black" title="Spring Security"/>
+    <img src="https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=oauth&logoColor=white" title="OAuth2.0"/>
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" title="Thymeleaf"/>
+  </p>
 
- [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=black)](https://github.com/YuYoHan/SpringSecurity)
-  [![Spring OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=OAuth2&logoColor=black)](https://github.com/YuYoHan/SpringSecurity_OAuth2_jwt)
-  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
- 
-
-<h2>IDE</h2>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
- <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
 
 <h2 style="text-align :center">☾⋆⁺₊⋆블로그✶°</h2>
 
-[![Velog](https://img.shields.io/badge/Velog-61DAFB?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@zxzz45/series)
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://plaid-argument-614.notion.site/John-s-Log-af15779a74c6431e81bd119f9adda522?pvs=4)
 
  
  <h2 style="text-align:center">☾⋆⁺₊⋆mail✶°</h2>
  <a href="mailto:zxzz8014@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zxzz8014@naver.com"/></a>
 <a href="mailto:dbekdms14744@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbekdms14744@gmail.com"/></a>
-   
 <br />
 
-
- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuYoHan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2335DFF1&title=hits&edge_flat=false)]()
  <br />
- <br />
+
  
  ![YuYoHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuYoHan&show_icons=true&theme=radical)
 </div>
